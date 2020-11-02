@@ -1,0 +1,23 @@
+*{
+    margin: 20px;
+}
+
+.Card {
+    border: 5px solid red;
+    border-radius: 5%;
+    width: 20%;
+    height: 40vh;
+    background-color: red;
+    opacity: 0.5;
+}
+
+.placeholder {
+    width: 150px;
+    float: left;
+}
+
+.name {
+    font-size: 30px;
+    color: black;
+}
+
